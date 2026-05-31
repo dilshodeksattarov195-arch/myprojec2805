@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceselete",
+        "uuid": 13904385,
+        "checksum": "vqehpi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
